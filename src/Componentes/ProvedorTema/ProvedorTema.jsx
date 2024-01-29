@@ -34,7 +34,8 @@ const tema = {
     espacamentos: {
         s : '16px',
         l : '32px',
-    }
+    },
+    fonntFamily: " 'font-family: 'Montserrat', sans-serif;' "
 }
 
 

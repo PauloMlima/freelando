@@ -7,13 +7,13 @@ const tema = {
         focos: '',
 
         
-        primaria: {
-            a: '',
+        primarias: {
+            a: '#5754ED',
             b: '',
             c: ''
         },
-        secundaria: {
-            a: '',
+        secundarias: {
+            a: '#EBEAF9',
             b: '',
             c: ''
         },
@@ -30,6 +30,10 @@ const tema = {
         }
 
 
+    },
+    espacamentos: {
+        s : '16px',
+        l : '32px',
     }
 }
 
